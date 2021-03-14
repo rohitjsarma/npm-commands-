@@ -1,0 +1,11 @@
+npm init react-app <application-name>
+
+to connect to bootstrap 
+->index.js
+  ->bootstrap.css
+  ->mdb.css
+->index.html
+  ->jquery.js
+  ->popper.js
+  ->bootstrap.js
+  ->mdb.js

@@ -1,0 +1,51 @@
+npm init react-app <application-name>
+npm init -- yes (to create package.jason)
+---------------------------------------------
+to connect to bootstrap 
+->index.js
+  ->bootstrap.css
+  ->mdb.css
+->index.html
+  ->jquery.js
+  ->popper.js
+  ->bootstrap.js
+  ->mdb.js
+  
+ --------------------------------------------
+ npm i mdbootstrap
+ npm i font-awesome
+ npm i axios (to perform http operation)
+ npm i react-router-dom
+ 
+ --------------------------------------------
+ REDUX(TO SOLVE STATE MANAGEMENT PROBLEM)
+ --> npm i redux
+ --> npm i react-redux
+ --> npm i redux-devtools-extension
+ --> npm i redux-logger
+ --> npm i redux-thunk
+ 
+ actionType.js
+ action.js
+ reducer.js
+ root reducer
+ store
+ 
+ 
+ REDUX Action
+ Redux store 
+ Reducers
+ 
+ --------------------------------------------
+ for node js 
+ bcryptjs -->npm i bcryptjs
+ jsonwebToken -->npm i jsonwebToken
+ dotenv --> npm i dotenv
+ gravatar -->npm i gravatar
+ --------------------------------------------
+ for live server 
+ @ cmd -->  npm i -g live-server
+ 
+ @terminal--> live-server --port=9000
+ 
+ --------------------------------------------
