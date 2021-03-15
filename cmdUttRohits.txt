@@ -17,3 +17,5 @@ yarn create react-app [my-app] ==> yarn start
 npm i @types/react-dom
 
 npm install -D typescript
+
+npm i @types/react @types/react-dom
